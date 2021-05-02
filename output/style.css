@@ -1,0 +1,29 @@
+body {
+        background-image: linear-gradient(to right, white, red);
+        background-size: cover;
+        opacity: 1.0;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100%;
+        background-repeat: no-repeat;
+      }
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 100px;
+  color: white;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, white, black);;
+}
+
+.card-body {
+  border-radius: 10px;
+}
+
+.employee-card {
+  margin: 5px;
+}
+
